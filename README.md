@@ -65,11 +65,11 @@ CyberSecurityAwarenessChatBot/
 Each topic contains 3+ randomized responses to simulate a more conversational AI:
 
 Topic	Sample Insight
-password	"Passwords should be long, unique, and never reused. Use 12+ characters and a password manager."
-phishing	"Be careful with emails asking for personal info. Real companies don’t ask for passwords this way."
-privacy	"Control app permissions and avoid oversharing on social media. Your data is valuable!"
-scam	"If it sounds too good to be true, it probably is. Don’t share info unless you're sure it's legit."
-safe browsing	"Use HTTPS websites, avoid public WiFi for sensitive tasks, and enable browser security features."
+password    	  "A password is a secret code that only you know. It helps protect your accounts so only you can access them."
+phishing     	  "Phishing is when someone tries to trick you into giving up sensitive information. Always verify links!"
+privacy	        "Privacy means controlling who can see your personal data online and how it's used."
+scam	          "A scam is when someone tries to fool you into doing something unsafe, like sending them money or giving them your password."
+safe browsing 	"Safe browsing means using the internet in a way that protects your data and devices from threats like malware, phishing, and malicious websites."
 
 🛠 Future Improvements
 Save/load conversation history
