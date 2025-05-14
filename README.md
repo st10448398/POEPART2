@@ -50,7 +50,7 @@ I'm worried about my passwords
 ### Running the Bot
 
 ```bash
-git clone https://github.com/yourusername/cybersecurity-chatbot.git
+git clone https://github.com/st10448398/cybersecurity-chatbot.git
 cd cybersecurity-chatbot
 dotnet run
 🧠 Code Structure
